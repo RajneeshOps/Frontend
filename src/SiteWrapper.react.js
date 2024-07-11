@@ -163,10 +163,10 @@ class SiteWrapper extends React.Component<Props, State> {
             <a href="#">Second Link</a>,
             <a href="#">Third Link</a>,
             <a href="#">Fourth Link</a>,
-            <a href="#">Five Link</a>,
+            <a href="#">Fifth Link</a>,
             <a href="#">Sixth Link</a>,
             <a href="#">Seventh Link</a>,
-            <a href="#">Eigth Link</a>,
+            <a href="#">Eighth Link</a>,
           ],
           note:
             "Premium and Open Source dashboard template with responsive and high quality UI. For Free!",
