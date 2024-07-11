@@ -4,32 +4,19 @@ import * as React from "react";
 
 import {
   Page,
-  Avatar,
-  Icon,
   Grid,
-  Card,
-  Text,
-  Table,
-  Alert,
-  Progress,
-  colors,
-  Dropdown,
-  Button,
-  StampCard,
   StatsCard,
-  ProgressCard,
-  Badge,
 } from "tabler-react";
 
-import C3Chart from "react-c3js";
-
 import SiteWrapper from "./SiteWrapper.react";
-import { ListAllEmployees, 
+import { 
+  ListAllEmployees, 
   ListEmployeeActiveEmployee,
   ListEmployeeInActiveEmployee,
   RoleDistribution,
   LocationDistribution,
-  StatusDistribution } from './EmployeeData';
+  StatusDistribution 
+} from './EmployeeData';
 
 function Home() {
   return (
